@@ -25,5 +25,4 @@ How to Auto logout with react session management !!
 <p>Create a componet as folder and in that folder create a SessionProvider.jsx as file </p>
 <h4>You can view my Session Managenment code in SessionProviderjsx and Login.jsx</h4>
 <h2>Note -</h2>
-<p>For applying auto logout function on each page, then you have to define the SessionProvider  function i.e <SessionProvider></SessionProvider> in app.jxs</p>
-
+<p>To apply the auto-logout function on each page, you need to define the SessionProvider function, i.e. <SessionProvider></SessionProvider> in App.jsx.</p>
